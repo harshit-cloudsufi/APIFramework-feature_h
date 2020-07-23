@@ -1,0 +1,1 @@
+{"uuid":"ad25bf92-cb25-4cc6-883d-4c78e65c6db4","name":"Scenario: Verify if Sysnr parameter has blank value then connection is not established","children":["53fdda9e-8d8c-4d15-aa0f-0150bf5f0f38"],"befores":[],"afters":[],"links":[],"start":1595498626865,"stop":1595498626929}

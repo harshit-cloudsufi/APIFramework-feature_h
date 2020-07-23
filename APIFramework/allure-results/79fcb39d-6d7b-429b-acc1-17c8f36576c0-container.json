@@ -1,0 +1,1 @@
+{"uuid":"79fcb39d-6d7b-429b-acc1-17c8f36576c0","name":"Scenario: Verify that S4 HANA connection is established and user is able to fetch RFC list.","children":["640f83a5-865f-4e5f-b2bb-065e502c39ec"],"befores":[],"afters":[],"links":[],"start":1595498622550,"stop":1595498622577}

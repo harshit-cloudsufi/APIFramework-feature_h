@@ -1,0 +1,1 @@
+{"uuid":"d3b82fd2-4cf3-4446-b805-7977e74632f6","name":"Scenario: Validate that the cached RFC list is returned as a response when a previously fetched RFC list is fetched again with S4 hana connection and \"Refresh = true\"","children":["c66f7bdd-0b75-44e2-ae87-577098b225a1"],"befores":[],"afters":[],"links":[],"start":1595498624286,"stop":1595498624305}

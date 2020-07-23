@@ -1,0 +1,1 @@
+{"uuid":"a1dedc5c-d5a5-4f11-aa17-dbd823e0db4a","name":"Scenario Outline: Verify if Sysnr parameter has invalid value then connection is not established","children":["fcc0a8bb-58db-4d9c-b850-569dfc3e730f"],"befores":[],"afters":[],"links":[],"start":1595498626805,"stop":1595498626860}

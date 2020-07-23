@@ -1,0 +1,1 @@
+{"uuid":"8386010c-b797-4dc0-8046-9b4f41a68331","name":"Scenario: Verify that direct connection is established and user is able to fetch iDoc list.","children":["89c2f697-0d3e-49f5-b951-9c80f2839982"],"befores":[],"afters":[],"links":[],"start":1595498609234,"stop":1595498610563}

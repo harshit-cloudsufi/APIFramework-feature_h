@@ -1,0 +1,1 @@
+{"uuid":"f42cf288-0a50-4a50-a64c-7acb85bda1d2","name":"Scenario Outline: Verify that SNC connection is established using user with minimum authorisation,user is able to fetch RFC Schema.","children":["325f4d64-2986-433f-be5a-7ac1aececca7"],"befores":[],"afters":[],"links":[],"start":1595498623840,"stop":1595498623856}

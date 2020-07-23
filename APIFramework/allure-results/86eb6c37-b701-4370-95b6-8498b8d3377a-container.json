@@ -1,0 +1,1 @@
+{"uuid":"86eb6c37-b701-4370-95b6-8498b8d3377a","name":"Scenario: Verify that SNC connection is established and user is able to fetch Bapi list.","children":["f5caecc4-384e-47ff-a4eb-8631fddff43d"],"befores":[],"afters":[],"links":[],"start":1595498537481,"stop":1595498538255}

@@ -1,0 +1,1 @@
+{"uuid":"eeb49694-6b5d-4c89-873b-a1655e826809","name":"Scenario Outline: Bapi execution is unsuccessful for PO BAPI-BAPI_PO_CREATE1 using invalid Purchase organisation payload","children":["adbaafd2-0c41-459f-8f3b-11ec8c644a46"],"befores":[],"afters":[],"links":[],"start":1595498576692,"stop":1595498578231}

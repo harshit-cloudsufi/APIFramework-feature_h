@@ -1,0 +1,1 @@
+{"uuid":"41ae2742-cc65-4bb1-be88-8a14f5d8c95c","name":"Scenario Outline: Verify that load balancer connection is established using user with minimum authorisation,user is able to fetch RFC Schema.","children":["a80dcc1c-299a-423c-b120-df93d6900b8d"],"befores":[],"afters":[],"links":[],"start":1595498623796,"stop":1595498623811}

@@ -1,0 +1,1 @@
+{"uuid":"dda7c69a-e847-4ae1-b7a0-583c2ba8b989","name":"Scenario Outline: Verify if snc_qop parameter has invalid value then connection is not established","children":["650f088f-ef81-4531-a970-8de9a81e3bc0"],"befores":[],"afters":[],"links":[],"start":1595498649877,"stop":1595498649921}

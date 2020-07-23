@@ -1,0 +1,1 @@
+{"uuid":"7075afa9-12e5-486e-86f4-2fb94d645754","name":"Scenario Outline: Verify that S4 HANA connection is established using user with minimum authorisation,user is able to fetch iDoc Schema.","children":["55d21361-eb7c-4180-8009-f74b86744e1a"],"befores":[],"afters":[],"links":[],"start":1595498615893,"stop":1595498615907}

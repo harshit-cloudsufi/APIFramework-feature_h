@@ -1,0 +1,1 @@
+{"uuid":"c589aaba-45b1-4bad-af0f-46ee9ced45c3","name":"Scenario: Bapi execution is unsuccessful for PO BAPI-BAPI_PO_CREATE1 using invalid company code payload where company code is invalid","children":["94291c77-791e-46e2-b843-b9ad68526c62"],"befores":[],"afters":[],"links":[],"start":1595498572424,"stop":1595498573343}

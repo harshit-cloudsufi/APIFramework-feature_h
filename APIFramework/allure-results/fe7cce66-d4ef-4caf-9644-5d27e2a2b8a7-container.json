@@ -1,0 +1,1 @@
+{"uuid":"fe7cce66-d4ef-4caf-9644-5d27e2a2b8a7","name":"Scenario Outline: Verify that load balancer connection is established using user with minimum authorisation,user is able to fetch iDoc Schema.","children":["d8cf7ff2-3528-41f4-985d-72646297919a"],"befores":[],"afters":[],"links":[],"start":1595498615813,"stop":1595498615828}

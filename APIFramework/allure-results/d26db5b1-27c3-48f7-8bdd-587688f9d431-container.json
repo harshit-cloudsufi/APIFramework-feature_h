@@ -1,0 +1,1 @@
+{"uuid":"d26db5b1-27c3-48f7-8bdd-587688f9d431","name":"Scenario: Validate that the filtered RFC list is returned as a response when filter parameters are passed in the header for direct connection  and \"Refresh = true\"","children":["80cf58be-316b-48b9-ae56-6c7174a2974e"],"befores":[],"afters":[],"links":[],"start":1595498623993,"stop":1595498624013}

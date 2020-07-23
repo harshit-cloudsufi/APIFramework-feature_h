@@ -1,0 +1,1 @@
+{"uuid":"17b0a63a-a7da-4f2b-8d26-e14e955b0e6c","name":"Scenario: Validate that the filtered RFC list is returned as a response when filter parameters are passed in the header for load balncer connection  and \"Refresh = False\"","children":["2b5b0016-c679-46e6-b52c-1dc89157c155"],"befores":[],"afters":[],"links":[],"start":1595498624041,"stop":1595498624064}

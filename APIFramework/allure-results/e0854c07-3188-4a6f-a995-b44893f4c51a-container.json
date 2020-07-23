@@ -1,0 +1,1 @@
+{"uuid":"e0854c07-3188-4a6f-a995-b44893f4c51a","name":"Scenario: Verify that SNC connection is established and user is able to fetch RFC list.","children":["82290a5a-6219-481e-ad1f-59d699a6ae44"],"befores":[],"afters":[],"links":[],"start":1595498622508,"stop":1595498622545}

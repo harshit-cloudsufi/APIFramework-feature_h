@@ -1,0 +1,1 @@
+{"uuid":"73dccaf8-7074-41ab-9258-201300a63646","name":"Scenario Outline: Verify that direct connection is established using user with minimum authorisation,user is able to fetch iDoc Schema.","children":["fae27d41-ad98-4fb9-9f83-6de27c035797"],"befores":[],"afters":[],"links":[],"start":1595498615794,"stop":1595498615808}

@@ -1,0 +1,1 @@
+{"uuid":"a8b857e5-767a-4846-80c8-7e8e5a7c1d7f","name":"Scenario: Verify if snc_myname parameter has wrong value then connection is not established","children":["13074db9-b0fa-4bd0-a8fc-87eea8e7915b"],"befores":[],"afters":[],"links":[],"start":1595498650162,"stop":1595498650633}

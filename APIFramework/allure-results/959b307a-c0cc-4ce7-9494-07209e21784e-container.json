@@ -1,0 +1,1 @@
+{"uuid":"959b307a-c0cc-4ce7-9494-07209e21784e","name":"Scenario: Verify if lang parameter has invalid value then connection is not established","children":["95d7fc99-0548-4ea5-bb7a-659b7a91d058"],"befores":[],"afters":[],"links":[],"start":1595498587605,"stop":1595498588173}

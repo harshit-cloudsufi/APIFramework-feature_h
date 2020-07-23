@@ -1,0 +1,1 @@
+{"uuid":"3438c70a-565b-4587-8471-e433863c4edc","name":"Scenario: Verify if snc_partnername parameter has wrong value then connection is not established","children":["276fe21e-e685-4d8b-9e31-167d97f732ce"],"befores":[],"afters":[],"links":[],"start":1595498649819,"stop":1595498649872}

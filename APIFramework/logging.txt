@@ -1,0 +1,39 @@
+Request method:	GET
+Request URI:	http://localhost:8080/connectionTestSNC
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		jco.client.lang=en
+				jco.client.sysnr=00
+				jco.client.ashost=10.132.0.4
+				jco.client.snc_mode=1
+				jco.client.snc_partnername="p:CN=S4H, OU=INITIAL, O=SAP Trust Community, C=DE"
+				jco.client.snc_qop=1
+				jco.client.snc_myname="p:CN=QAS, OU=IT, O=CSW, C=US"
+				jco.client.snc_lib=C:\snc1\sapcrypto.dll
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 503 
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+X-Frame-Options: DENY
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Date: Thu, 23 Jul 2020 10:11:08 GMT
+Connection: close
+
+{
+    "timestamp": 1595499068860,
+    "primaryMessage": "Exception caused due to network problems, connection breakdowns, gateway problems, inavailability of the remote SAP system, etc.",
+    "primaryCode": "650",
+    "secondaryMessage": null,
+    "secondaryCode": "102"
+}

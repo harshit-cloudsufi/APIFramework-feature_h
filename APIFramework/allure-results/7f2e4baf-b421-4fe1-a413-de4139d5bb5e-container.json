@@ -1,0 +1,1 @@
+{"uuid":"7f2e4baf-b421-4fe1-a413-de4139d5bb5e","name":"Scenario: Verify if snc_lib parameter is not present then missing parameter exception is thrown","children":["d07ca72d-1182-4a42-a90b-39fe56d8357d"],"befores":[],"afters":[],"links":[],"start":1595498625555,"stop":1595498625610}

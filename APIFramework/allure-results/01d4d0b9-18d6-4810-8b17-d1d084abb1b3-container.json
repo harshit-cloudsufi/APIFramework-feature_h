@@ -1,0 +1,1 @@
+{"uuid":"01d4d0b9-18d6-4810-8b17-d1d084abb1b3","name":"Scenario: Verify that S4 HANA connection is established and user is able to fetch Bapi list.","children":["765366aa-44a8-4bc6-adf2-ccd210bb86c6"],"befores":[],"afters":[],"links":[],"start":1595498538261,"stop":1595498538999}

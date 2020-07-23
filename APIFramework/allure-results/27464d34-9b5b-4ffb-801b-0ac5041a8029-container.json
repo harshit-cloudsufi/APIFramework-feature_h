@@ -1,0 +1,1 @@
+{"uuid":"27464d34-9b5b-4ffb-801b-0ac5041a8029","name":"Scenario: Validate that the cached RFC list is returned as a response when a previously fetched RFC list is fetched again with direct connection and \"Refresh = true\"","children":["f2fe3f2f-8fd6-40f8-8271-83e5cb84c39f"],"befores":[],"afters":[],"links":[],"start":1595498623961,"stop":1595498623989}

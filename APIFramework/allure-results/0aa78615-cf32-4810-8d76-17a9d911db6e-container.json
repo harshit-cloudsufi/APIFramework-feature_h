@@ -1,0 +1,1 @@
+{"uuid":"0aa78615-cf32-4810-8d76-17a9d911db6e","name":"Scenario: Verify if snc_myname parameter has blank value then connection is not established","children":["9976c99d-1b8d-48cc-8c94-c06f3427d712"],"befores":[],"afters":[],"links":[],"start":1595498650084,"stop":1595498650156}

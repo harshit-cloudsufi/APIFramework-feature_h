@@ -1,0 +1,1 @@
+{"uuid":"55c3321e-87c6-4f2e-a8d3-a051a27830af","name":"Scenario: Validate that the filtered RFC list is returned as a response when filter parameters are passed in the header for snc connection  and \"Refresh = true\"","children":["c502e131-fe7e-4ce4-b0c0-c08fd16fa906"],"befores":[],"afters":[],"links":[],"start":1595498624195,"stop":1595498624216}

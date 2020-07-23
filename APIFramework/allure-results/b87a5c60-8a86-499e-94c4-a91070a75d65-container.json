@@ -1,0 +1,1 @@
+{"uuid":"b87a5c60-8a86-499e-94c4-a91070a75d65","name":"Scenario: Verify that connection is established with the valid credential and headers.","children":["ea1841dc-869d-45cc-8191-15cf5b47aa4f"],"befores":[],"afters":[],"links":[],"start":1595498582752,"stop":1595498583462}

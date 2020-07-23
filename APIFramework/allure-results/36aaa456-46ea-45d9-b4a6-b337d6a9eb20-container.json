@@ -1,0 +1,1 @@
+{"uuid":"36aaa456-46ea-45d9-b4a6-b337d6a9eb20","name":"Scenario Outline: Verify that S4 HANA connection is established using user with minimum authorisation,user is able to fetch RFC Schema.","children":["7bd383ca-13c4-46e6-bd2c-08fe827f29c1"],"befores":[],"afters":[],"links":[],"start":1595498623885,"stop":1595498623903}

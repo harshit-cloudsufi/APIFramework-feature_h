@@ -1,0 +1,1 @@
+{"uuid":"19babc07-357e-48e7-b736-675216731ae5","name":"Scenario: Bapi execution is successful for PO BAPI-BAPI_PO_CREATE1 using valid payload and no records created when autocommit is false","children":["c5e4d08d-04e9-4db1-833d-085fe6defecd"],"befores":[],"afters":[],"links":[],"start":1595498571100,"stop":1595498572418}

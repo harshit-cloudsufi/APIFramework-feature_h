@@ -1,0 +1,1 @@
+{"uuid":"c5539def-6df1-4bcb-9a71-b85e2234a11a","name":"Scenario: Verify that connection using SNC is established with the valid headers","children":["7dab253c-0e01-4951-8960-f63193e9e2e5"],"befores":[],"afters":[],"links":[],"start":1595498624386,"stop":1595498625341}

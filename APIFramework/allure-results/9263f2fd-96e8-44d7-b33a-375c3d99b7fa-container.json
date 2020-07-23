@@ -1,0 +1,1 @@
+{"uuid":"9263f2fd-96e8-44d7-b33a-375c3d99b7fa","name":"Scenario Outline: Verify that SNC connection is established using user with minimum authorisation,user is able to fetch Bapi Schema.","children":["dfe626d3-402b-48df-b321-c1718c44617c"],"befores":[],"afters":[],"links":[],"start":1595498550214,"stop":1595498550698}

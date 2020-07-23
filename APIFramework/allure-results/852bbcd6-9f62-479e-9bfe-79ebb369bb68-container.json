@@ -1,0 +1,1 @@
+{"uuid":"852bbcd6-9f62-479e-9bfe-79ebb369bb68","name":"Scenario: Verify if snc_partnername parameter is not present then missing parameter exception is thrown","children":["2fdd3046-bc81-4026-b95b-c06986e590a3"],"befores":[],"afters":[],"links":[],"start":1595498625502,"stop":1595498625550}

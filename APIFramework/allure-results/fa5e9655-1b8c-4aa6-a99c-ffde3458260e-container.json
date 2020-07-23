@@ -1,0 +1,1 @@
+{"uuid":"fa5e9655-1b8c-4aa6-a99c-ffde3458260e","name":"Scenario Outline: Verify that direct connection is established using user with minimum authorisation,user is able to fetch RFC Schema.","children":["2f4f7184-de70-44d1-b55c-d1e1494cef4c"],"befores":[],"afters":[],"links":[],"start":1595498622583,"stop":1595498623753}

@@ -1,0 +1,1 @@
+{"uuid":"63feb76f-7d42-4193-b5b9-c7edabf454c2","name":"Scenario: Verify that connection via Load balancer is established and user is able to fetch RFC list.","children":["631c490b-327a-4eb4-af72-547235227258"],"befores":[],"afters":[],"links":[],"start":1595498622479,"stop":1595498622503}

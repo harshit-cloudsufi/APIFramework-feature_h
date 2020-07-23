@@ -1,0 +1,1 @@
+{"uuid":"1a103887-fc12-41ce-b1ec-de3bbdf83f67","name":"Scenario Outline: Verify that SNC connection is established using user with minimum authorisation,user is able to fetch iDoc Schema.","children":["4e363dd6-5de6-47b4-afff-0491f3c3a536"],"befores":[],"afters":[],"links":[],"start":1595498615853,"stop":1595498615869}

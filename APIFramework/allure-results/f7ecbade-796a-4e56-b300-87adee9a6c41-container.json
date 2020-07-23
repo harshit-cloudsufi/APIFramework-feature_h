@@ -1,0 +1,1 @@
+{"uuid":"f7ecbade-796a-4e56-b300-87adee9a6c41","name":"Scenario: Verify if SNC_Mode parameter has wrong value then connection is not established","children":["d8afe375-3886-42aa-a7a4-f35da4df1d99"],"befores":[],"afters":[],"links":[],"start":1595498649711,"stop":1595498649762}

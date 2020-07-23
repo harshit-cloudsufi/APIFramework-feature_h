@@ -1,0 +1,1 @@
+{"uuid":"883baed3-fc97-44dd-9485-e7e81acd0137","name":"Scenario: Verify that direct connection is established and user is able to fetch RFC list.","children":["06336d90-1970-4112-943a-eb8f1cc1b264"],"befores":[],"afters":[],"links":[],"start":1595498621998,"stop":1595498622474}

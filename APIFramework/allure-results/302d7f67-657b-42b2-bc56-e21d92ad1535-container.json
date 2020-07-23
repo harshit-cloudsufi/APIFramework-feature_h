@@ -1,0 +1,1 @@
+{"uuid":"302d7f67-657b-42b2-bc56-e21d92ad1535","name":"Scenario: Verify if snc_qop parameter has wrong value then connection is not established","children":["c39a3087-fd20-413b-952b-eaa9781e85ee"],"befores":[],"afters":[],"links":[],"start":1595498650032,"stop":1595498650079}

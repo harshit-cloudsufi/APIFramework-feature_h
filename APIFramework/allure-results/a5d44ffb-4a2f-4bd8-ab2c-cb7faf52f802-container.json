@@ -1,0 +1,1 @@
+{"uuid":"a5d44ffb-4a2f-4bd8-ab2c-cb7faf52f802","name":"Scenario: Validate that the filtered RFC list is returned as a response when filter parameters are passed in the header for S4 hana connection  and \"Refresh = False\"","children":["f471c6c4-7a98-4c17-999d-c84f64c4e224"],"befores":[],"afters":[],"links":[],"start":1595498624248,"stop":1595498624282}

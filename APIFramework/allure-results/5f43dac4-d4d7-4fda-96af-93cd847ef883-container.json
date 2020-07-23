@@ -1,0 +1,1 @@
+{"uuid":"5f43dac4-d4d7-4fda-96af-93cd847ef883","name":"Scenario Outline: Verify if SNC_Mode parameter has invalid value then connection is not established","children":["58153110-378b-44a2-8137-6063461c0426"],"befores":[],"afters":[],"links":[],"start":1595498649556,"stop":1595498649604}

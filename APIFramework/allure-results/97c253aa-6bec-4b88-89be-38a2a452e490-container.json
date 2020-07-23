@@ -1,0 +1,1 @@
+{"uuid":"97c253aa-6bec-4b88-89be-38a2a452e490","name":"Scenario: Verify that SNC connection is established and user is able to fetch iDoc list.","children":["fabf9ddf-46e8-46ac-b747-0a117c1efac6"],"befores":[],"afters":[],"links":[],"start":1595498613217,"stop":1595498613234}

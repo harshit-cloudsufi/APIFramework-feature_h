@@ -1,0 +1,1 @@
+{"uuid":"484d84d5-e549-4f5d-a2ec-fadca6339c2f","name":"Scenario Outline: Verify that S4 HANA connection is established using user with minimum authorisation,user is able to fetch Bapi Schema.","children":["54426ff2-289d-4be6-a963-b46fcda95dbf"],"befores":[],"afters":[],"links":[],"start":1595498551692,"stop":1595498552177}

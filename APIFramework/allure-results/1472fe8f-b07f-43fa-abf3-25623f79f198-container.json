@@ -1,0 +1,1 @@
+{"uuid":"1472fe8f-b07f-43fa-abf3-25623f79f198","name":"Scenario Outline: Verify if Client parameter has invalid value then connection is not established","children":["b9ec5f35-7eff-4195-9d5a-332aff259373"],"befores":[],"afters":[],"links":[],"start":1595498625734,"stop":1595498625793}

@@ -1,0 +1,1 @@
+{"uuid":"c15f6c7e-f789-400f-b017-46f3b77c9ca0","name":"Scenario: Verify that connection via Load balancer is established and user is able to fetch Bapi list.","children":["9fb1764f-f592-46e5-9c6f-485a09116c3a"],"befores":[],"afters":[],"links":[],"start":1595498536355,"stop":1595498537473}

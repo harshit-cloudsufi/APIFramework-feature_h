@@ -1,0 +1,1 @@
+{"uuid":"8013c6f3-4b8f-4506-9ed6-5e9c4c22db4c","name":"Scenario: Verify that S4 HANA connection is established and user is able to fetch iDoc list.","children":["e03aa211-3401-4708-8635-7f8e2eddfa63"],"befores":[],"afters":[],"links":[],"start":1595498613238,"stop":1595498615766}

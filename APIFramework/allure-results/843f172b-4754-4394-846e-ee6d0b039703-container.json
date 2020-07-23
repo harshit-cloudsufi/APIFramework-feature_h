@@ -1,0 +1,1 @@
+{"uuid":"843f172b-4754-4394-846e-ee6d0b039703","name":"Scenario Outline: Verify that direct connection is established using user with minimum authorisation,user is able to fetch Bapi Schema.","children":["73a937a2-cf59-4bdf-8dc4-0c5a36ad482a"],"befores":[],"afters":[],"links":[],"start":1595498539014,"stop":1595498548711}

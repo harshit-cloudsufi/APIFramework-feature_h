@@ -1,0 +1,1 @@
+{"uuid":"77a3a906-a79e-46af-ac6e-a96cb1174c60","name":"Scenario: Verify if Sysnr parameter is not present then missing parameter exception is thrown","children":["742c449a-a1cd-43af-9ac9-917989cadea5"],"befores":[],"afters":[],"links":[],"start":1595498625398,"stop":1595498625445}

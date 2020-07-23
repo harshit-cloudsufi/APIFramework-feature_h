@@ -1,0 +1,1 @@
+{"uuid":"9f517f1a-fc76-485a-adc8-7d705acd03a6","name":"Scenario: Verify that direct connection is established and user is able to fetch Bapi list.","children":["a38531a3-aa55-43e3-86dd-3aafde2fd8ee"],"befores":[],"afters":[],"links":[],"start":1595498520517,"stop":1595498536222}

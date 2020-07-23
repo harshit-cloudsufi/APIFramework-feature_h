@@ -1,0 +1,1 @@
+{"uuid":"5ee2e2c4-cd85-4a56-a6a3-c2ff4781437b","name":"Scenario Outline: Verify if group parameter is invalid then invalid parameter exception is thrown","children":["c1f6ab35-b9d2-4b0a-b3fd-65376b85c798"],"befores":[],"afters":[],"links":[],"start":1595498619793,"stop":1595498620445}

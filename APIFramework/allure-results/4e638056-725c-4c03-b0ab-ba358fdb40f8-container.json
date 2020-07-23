@@ -1,0 +1,1 @@
+{"uuid":"4e638056-725c-4c03-b0ab-ba358fdb40f8","name":"Scenario Outline: Verify that load balancer connection is established using user with minimum authorisation,user is able to fetch Bapi Schema.","children":["5dc184ab-c017-43f9-9cd0-b7795fdd3e5b"],"befores":[],"afters":[],"links":[],"start":1595498549224,"stop":1595498549707}

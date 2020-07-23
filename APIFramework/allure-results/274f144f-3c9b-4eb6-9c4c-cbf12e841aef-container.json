@@ -1,0 +1,1 @@
+{"uuid":"274f144f-3c9b-4eb6-9c4c-cbf12e841aef","name":"Scenario: Bapi execution is successful for PO BAPI-BAPI_PO_CREATE1 using valid payload and auto commite true same can be verified on GUI using S4 HANA","children":["26567e28-4439-41ad-ac9d-d8fea5cd56b9"],"befores":[],"afters":[],"links":[],"start":1595498552183,"stop":1595498571093}

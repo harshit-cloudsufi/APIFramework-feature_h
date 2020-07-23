@@ -1,0 +1,1 @@
+{"uuid":"0f1fda7f-8aff-4a45-91d5-3a48b0c4961a","name":"Scenario: Verify that connection via Load balancer is established and user is able to fetch iDoc list.","children":["eeebf1c8-f48f-4197-8df8-d9c9bbf755ec"],"befores":[],"afters":[],"links":[],"start":1595498610568,"stop":1595498613213}
